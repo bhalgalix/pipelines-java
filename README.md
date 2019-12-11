@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CalidadII/PROYECTO/_apis/build/status/bhalgalix.pipelines-java?branchName=master)](https://dev.azure.com/CalidadII/PROYECTO/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
